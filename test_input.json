@@ -1,0 +1,6 @@
+{
+  "input": {
+    "text": "I love how easy RunPod makes it to deploy ML models. The developer experience is fantastic and the pricing is transparent.",
+    "top_k": 2
+  }
+}
